@@ -4,7 +4,6 @@ App per creare le **locandine delle escursioni** e condividerle su WhatsApp e so
 
 Compili i campi dell'uscita, carichi una foto, e l'app genera un'immagine pronta da mandare. Niente Photoshop, niente Canva, niente account: si apre nel browser e funziona anche **senza connessione**.
 
-🔗 **App online:** https://daniel-chiola.github.io/locandine-uscite/
 
 ---
 
